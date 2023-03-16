@@ -1,0 +1,2 @@
+# Base Field
+All rust nodes, have a field `base`. This is field is indicated with the `#[base]` attribute. This field hold all of the node data. This part will show you how to use the data and interact with Godot.

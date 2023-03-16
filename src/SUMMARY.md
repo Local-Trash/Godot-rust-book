@@ -5,6 +5,7 @@
   - [Getting Started](gdext/intro/index.md)
     - [Setup](gdext/intro/setup.md)
     - [Coding](gdext/intro/coding.md)
+  - [Base Field](gdext/base/index.md)
 - [GDNative](gdnative/index.md)
   - [Getting Started](gdnative/intro/index.md)
     - [Setup](gdnative/intro/setup.md)
